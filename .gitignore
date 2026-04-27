@@ -1,0 +1,22 @@
+# Power BI temp files
+*.pbix.bak
+*.pbix.tmp
+*.pbit.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
